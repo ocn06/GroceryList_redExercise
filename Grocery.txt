@@ -1,0 +1,11 @@
+Book 2 129,95
+Banana 5 1,00
+Shampoo 1 69,95
+Soda 3 10,95
+Milk 2 6,75
+Butter 1 5,00
+Ryebread 1 12,95
+Pasta 1 15,00
+Flowers 2 39,95
+Socks 5 10,00
+Beans 1 9,95
