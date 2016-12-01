@@ -1,3 +1,5 @@
+package Controller;
+
 /**
  * Created by Olivi on 11-09-2016.
  */
@@ -51,7 +53,7 @@ public class GroceryItemOrder {
     //toString method
     @Override
     public String toString() {
-        return "GroceryItemOrder{" +
+        return "Controller.GroceryItemOrder{" +
                 "name='" + name + '\'' +
                 ", quantity=" + quantity +
                 ", price=" + price +

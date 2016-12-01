@@ -1,7 +1,7 @@
+package Controller;
+
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * Created by Olivi on 11-09-2016.
@@ -46,7 +46,7 @@ public class GroceryList2 {
     //toString method
     @Override
     public String toString() {
-        return "GroceryList{" +
+        return "Controller.GroceryList{" +
                 "list=" + list.toString() +
                 '}';
     }
